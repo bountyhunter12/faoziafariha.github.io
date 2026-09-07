@@ -223,7 +223,7 @@ Nothing else needs changing; every link points at that path.
 
 ## Change the photo
 
-Replace `assets/img/profile.jpg`. Use a **square** image, ideally 600×600 or
+Replace `assets/img/profile.jpeg`. Use a **square** image, ideally 600×600 or
 larger; anything else is centre-cropped by CSS. Keep the filename.
 
 ---

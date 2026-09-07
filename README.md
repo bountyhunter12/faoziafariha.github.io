@@ -77,7 +77,7 @@ constant to match your actual GitHub Pages URL if it differs from
 
 ## Replace the placeholder photo
 
-`assets/img/profile.jpg` is currently a generated "FF" monogram placeholder,
+`assets/img/profile.jpeg` is currently a generated "FF" monogram placeholder,
 not a real photo. Replace it with an actual square photo (600&times;600 or
 larger) and keep the filename; see [CONTENT-GUIDE.md](CONTENT-GUIDE.md) for
 details.
