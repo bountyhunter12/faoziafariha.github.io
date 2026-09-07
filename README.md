@@ -3,7 +3,7 @@
 Personal academic website of **Faozia Fariha**, researcher at the NLP Lab,
 Chittagong University of Engineering &amp; Technology (CUET).
 
-Live at <https://bountyhunter12.github.io/faoziafariha.github.io/> 
+Live at <https://faoziafariha.github.io/> 
 
 ## Stack
 
